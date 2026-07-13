@@ -4,11 +4,14 @@ I'm learning full-stack software engineering through the **SkillsUnion × Tamkee
 
 My current focus is connecting the full development journey:
 
-**React interface → Spring Boot API → PostgreSQL database → Docker deployment → automated CI and security checks**
+**React interface → Spring Boot API → PostgreSQL database → Docker Compose → automated CI and security checks**
 
-## What I'm building
+## Featured projects
 
 ### ⭐ [TaskFlow — Full-Stack Capstone](https://github.com/alaradim95-cyber/taskflow-capstone)
+
+[![CI](https://github.com/alaradim95-cyber/taskflow-capstone/actions/workflows/ci.yml/badge.svg)](https://github.com/alaradim95-cyber/taskflow-capstone/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/alaradim95-cyber/taskflow-capstone/actions/workflows/codeql.yml/badge.svg)](https://github.com/alaradim95-cyber/taskflow-capstone/actions/workflows/codeql.yml)
 
 My flagship project: a responsive task-management application with a React frontend, Spring Boot REST API, PostgreSQL persistence, Docker Compose, automated tests, GitHub Actions, CodeQL and Trivy security scanning, and Prometheus monitoring.
 
@@ -23,6 +26,8 @@ A React word game that I packaged into versioned Docker images and published thr
 ### 📸 [Instagram Base App](https://github.com/alaradim95-cyber/instagram-base-app)
 
 A React and Firebase project exploring authentication, real-time data, reusable components, and social-app interactions.
+
+More projects: [High Card React](https://github.com/alaradim95-cyber/high-card-react) · [React Native Expo Tools](https://github.com/alaradim95-cyber/react-native-expo-tools)
 
 ## My toolkit
 
