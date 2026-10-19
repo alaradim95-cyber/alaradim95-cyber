@@ -48,6 +48,6 @@ More projects: [High Card React](https://github.com/alaradim95-cyber/high-card-r
 
 ## Currently
 
-I'm completing the remaining SkillsUnion/Tamkeen curriculum and continuing to strengthen TaskFlow as a portfolio-ready demonstration of everything I've learned across frontend, backend, databases, testing, and DevOps.
+I've completed the core SkillsUnion/Tamkeen software-engineering curriculum and now continue strengthening TaskFlow and building practical projects across frontend, backend, databases, testing, and DevOps.
 
 Thanks for visiting—feel free to explore the projects above and follow the progress.
